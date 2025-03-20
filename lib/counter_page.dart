@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 // Ini adalah halaman counter
+// Commit tambahan 1
 
 class CounterPage extends StatefulWidget {
   const CounterPage({super.key});
@@ -64,3 +65,4 @@ class _CounterPageState extends State<CounterPage> {
     );
   }
 }
+// Commit ke-1
