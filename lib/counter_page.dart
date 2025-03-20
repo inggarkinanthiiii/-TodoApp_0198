@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+// Ini adalah halaman counter
 
 class CounterPage extends StatefulWidget {
   const CounterPage({super.key});
